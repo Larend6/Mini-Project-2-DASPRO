@@ -38,7 +38,7 @@ Pada fitur ini, program menampilkan tabel dari daftar barang-barang yang ada bah
 ![image](https://github.com/user-attachments/assets/922bf74e-36c3-40dd-a481-7841d2d6306e)
 
 ## Perbarui Hadiah (Update)
-Mirip seperti fitur tambah barang, pada fitur ini admin diminta untuk memasukan nomor hadiah yang ingin diperbarui
+Mirip seperti fitur tambah barang, pada fitur ini admin diminta untuk memasukan nomor hadiah yang ingin diperbarui <br>
 ![image](https://github.com/user-attachments/assets/e283b56c-a393-427a-8a83-5b5bb72e8bce) <br>
 Setelah itu admin juga diminta untuk memilih apakah yang ingin diganti itu nama atau harga dari hadiah tersebut dan setelah memilih, admin diminta untuk memasukan nama atau harga yang baru untuk diganti berikutnya
 ### Mengganti Nama Hadiah
